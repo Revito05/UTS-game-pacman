@@ -1,0 +1,2 @@
+Greedy Algorithem adalah metode yang digunakan untuk memecahkan persoalan optimasi. Greedy berasal dari bahasa inggris yang artinya rakus, tamak atau serakah.
+Implemenrasi : -Bermain kartu, -penanaman modal investasi, -memilih perguruan tinggi
